@@ -1,8 +1,8 @@
 # Post X promote — make your own bounty
 
-[![make.fun](https://make.fun/badge/post-x-promote-make-your-own-bounty-01.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01)
-[![rank](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/jclaw/post-x-promote/rank.svg)](https://make.fun/c/post-x-promote-make-your-own-bounty-01)
-[![reward](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/jclaw/post-x-promote/reward.svg)](https://make.fun/c/post-x-promote-make-your-own-bounty-01)
+[![make.fun · post-x-promote-make-your-own-bounty-01](https://make.fun/badge/post-x-promote-make-your-own-bounty-01.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01?utm_source=github&utm_medium=readme&utm_campaign=post-x-promote-make-your-own-bounty-01)
+[![rank](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/Jclawhub/post-x-promote/rank.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=post-x-promote-make-your-own-bounty-01)
+[![reward](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/Jclawhub/post-x-promote/reward.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01?utm_source=github&utm_medium=readme&utm_campaign=post-x-promote-make-your-own-bounty-01)
 
 Entry for the make.fun bounty "Promote make.fun's make-your-own-bounty post on X": one post of my own on X that quotes make.fun's post about making your own bounty, with a photo of its own attached, and make.fun (or the @makefunai tag) plus my play code in its text. Places go by the post's replies plus its reposts plus its quotes at the deadline; the top 50 share $250.
 
